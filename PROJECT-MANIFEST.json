@@ -1,0 +1,14 @@
+{
+  "name": "N3X7 / MUSE Music Intelligence Workbench",
+  "version": "0.1.0",
+  "status": "scaffold",
+  "artist": "N3X7",
+  "system": "MUSE",
+  "principles": [
+    "provider-agnostic",
+    "sovereign canonical data",
+    "provenance-first",
+    "human curation",
+    "epistemic separation"
+  ]
+}
